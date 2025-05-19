@@ -21,3 +21,7 @@
                 modal.style.display = "none";
             }
         }
+        
+        body.modal-open {
+            overflow: hidden;
+        }
