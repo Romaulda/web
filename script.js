@@ -24,5 +24,5 @@
         
         body.modal-open {
             overflow: hidden;
-            position: fixed;
+            position: fixed; 
         }
